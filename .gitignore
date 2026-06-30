@@ -1,0 +1,6 @@
+# Hide our local secret lockbox folder
+.streamlit/secrets.toml
+
+# Hide temporary Python files
+__pycache__/
+*.pyc
